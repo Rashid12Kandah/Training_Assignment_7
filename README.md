@@ -7,7 +7,9 @@ mono Dilation_Erosion.exe <method> ("dilate","erode") <path/to/img>
 ## Kernel used in the example
 
 {[0,  250, 0 ],
+
  [250,250,250],
+ 
  [0,  250, 0 ]}
 
 ## Orignal Image - 24-bit Image 
