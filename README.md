@@ -18,12 +18,12 @@ mono Dilation_Erosion.exe <method> ("dilate","erode") <path/to/img>
 
 ### The image is transformed into 8-bit grayscaleusing the the 3rd assignment code
 
-<img src="https://github.com/Rashid12Kandah/Training_Assignment_7/blob/main/Dame1.jpeg" alt="8-bit grayscale image of flower orchard" width="240" height="360">
+<img src="https://github.com/Rashid12Kandah/Training_Assignment_7/blob/main/Dame1.jpeg" alt="8-bit grayscale image of flower orchard" width="360" height="240">
 
 ## Dilation Output
 
-<img src="https://github.com/Rashid12Kandah/Training_Assignment_7/blob/main/dilate.png" alt="8-bit grayscale dilated image of flower orchard" width="240" height="360">
+<img src="https://github.com/Rashid12Kandah/Training_Assignment_7/blob/main/dilate.png" alt="8-bit grayscale dilated image of flower orchard" width="360" height="240">
 
 ## Erosion Output
 
-<img src="https://github.com/Rashid12Kandah/Training_Assignment_7/blob/main/erode.png" alt="8-bit grayscale eroded image of flower orchard" width="240" height="360">
+<img src="https://github.com/Rashid12Kandah/Training_Assignment_7/blob/main/erode.png" alt="8-bit grayscale eroded image of flower orchard" width="360" height="240">
