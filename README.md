@@ -16,7 +16,7 @@ mono Dilation_Erosion.exe <method> ("dilate","erode") <path/to/img>
 
 <img src="https://github.com/Rashid12Kandah/Training_Assignment_7/blob/main/Dame1.jpg" alt="24-bit coloured Image of flower orchard" width="360" height="240">
 
-### The image is transformed into 8-bit grayscaleusing the the 3rd assignment code
+### The image is transformed into 8-bit grayscale using the the 3rd assignment code
 
 <img src="https://github.com/Rashid12Kandah/Training_Assignment_7/blob/main/Dame1.jpeg" alt="8-bit grayscale image of flower orchard" width="360" height="240">
 
